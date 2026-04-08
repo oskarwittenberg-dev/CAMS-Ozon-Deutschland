@@ -37,9 +37,8 @@ Ziel ist es, einen verständlichen und anwendungsnahen Einstieg in die Analyse v
 
 Das Notebook richtet sich an:
 
-- Mitarbeitende in Behörden und Institutionen (z. B. Umwelt- oder Gesundheitsbereich)  
-- alle Interessierten, die mit Luftqualitätsdaten arbeiten möchten
 - Studierende und Forschende im Bereich Umwelt, Geographie, Meteorologie oder Datenanalyse 
+- alle weiteren Interessierten, die mit Luftqualitätsdaten arbeiten möchten
 
 ## Daten
 
