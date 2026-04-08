@@ -6,6 +6,26 @@ Das Notebook bietet einen praxisnahen Einstieg in die Nutzung von CAMS-Daten und
 
 ---
 
+## Notebook direkt ausführen
+
+Das Notebook kann direkt in Google Colab geöffnet und ausgeführt werden:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oskarwittenberg-dev/CAMS-Regionale-Luftqualitaetsvorhersage-Analyse-von-Schadstoffen-in-Deutschland-am-Beispiel-von-Ozon/blob/main/DEINNOTEBOOK.ipynb)
+
+---
+
+## Beispielergebnisse
+
+### Ozonvorhersage – Deutschland
+
+![Ozonkarte](figures/o3_maps.png)
+
+### Zeitreihe – Berlin
+
+![Zeitreihe](figures/o3_timeseries_berlin.png)
+
+---
+
 ## Inhalt des Notebooks
 
 Am Beispiel der bodennahen Ozonkonzentration (O₃) werden folgende Schritte durchgeführt:
