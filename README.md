@@ -53,7 +53,6 @@ Die dargestellten Werte basieren auf modellierten Vorhersagen und stellen keine 
 Das Notebook kann direkt in der Cloud ausgeführt werden, wobei Google Colab zu empfehlen ist:
 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oskarwittenberg-dev/CAMS-Ozon-Deutschland/HEAD)
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oskarwittenberg-dev/CAMS-Ozon-Deutschland/blob/main/NotebookCAMSLuftqualität.ipynb)
 
 Für den Datenzugriff wird ein persönlicher API-Schlüssel für den Atmosphere Data Store (ADS) benötigt.
