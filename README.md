@@ -1,16 +1,16 @@
-# CAMS Luftqualitätsvorhersage – Analyse der Ozonkonzentration über Deutschland
+# CAMS Regionale Luftqualitätsvorhersage – Analyse der Ozonkonzentration über Deutschland
 
 Dieses Repository enthält ein Jupyter Notebook zur Analyse von Luftqualitätsvorhersagen des Copernicus Atmosphere Monitoring Service (CAMS) für Deutschland.
-
-Das Notebook bietet einen praxisnahen Einstieg in die Nutzung von CAMS-Daten und zeigt, wie modellbasierte Luftqualitätsinformationen heruntergeladen, verarbeitet und visualisiert werden können.
 
 ---
 
 ## Notebook direkt ausführen
 
-Das Notebook kann direkt in Google Colab geöffnet und ausgeführt werden:
+Führen Sie das Notebook direkt über kostenlose Cloud-Plattformen aus:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oskarwittenberg-dev/CAMS-Regionale-Luftqualitaetsvorhersage-Analyse-von-Schadstoffen-in-Deutschland-am-Beispiel-von-Ozon/blob/main/DEINNOTEBOOK.ipynb)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oskarwittenberg-dev/CAMS-Ozon-Deutschland/HEAD)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oskarwittenberg-dev/CAMS-Ozon-Deutschland/blob/main/DEINNOTEBOOK.ipynb)
 
 ---
 
