@@ -4,7 +4,7 @@ Dieses Repository enthält ein Jupyter Notebook zur Analyse von Luftqualitätsvo
 
 ## Notebook direkt ausführen
 
-Führen Sie das Notebook direkt über kostenlose Cloud-Plattformen aus:
+Führen Sie das Notebook direkt über kostenlose Cloud-Plattformen aus, wobei Colab zu empfehlen ist:
 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oskarwittenberg-dev/CAMS-Ozon-Deutschland/HEAD)
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code)
